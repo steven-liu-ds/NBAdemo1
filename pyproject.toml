@@ -35,7 +35,7 @@ dependencies = [
     "numpy >=2.1.0 ; python_version >= '3.13'",
     "pandas >=2.1.0; python_version < '3.12'",
     "pandas >=2.2.0 ; python_version >= '3.12'",
-    "requests (>=2.32.3,<3.0.0)"
+    "requests (>=2.34.2,<3.0.0)"
 ]
 
 readme = "README.md"
