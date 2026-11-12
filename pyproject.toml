@@ -59,7 +59,7 @@ pandas = [
 ]
 ruff = "^0.15.2"
 pre-commit = "^4.0.0"
-pytest-recording = "^0.13.4"
+pytest-recording = "^0.14.1"
 
 [tool.pytest.ini_options]
 markers = [
